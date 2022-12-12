@@ -1,0 +1,114 @@
+﻿  2D_Game.cpp
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(33,67): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(33,51): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(34,73): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(34,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(35,79): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(35,57): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(36,73): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(36,51): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(39,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(39,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(40,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(40,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(41,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(41,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(42,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\havra\source\repos\2D_Game\2D_Game\TileMap.cpp(42,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  2D_Game.vcxproj -> C:\Users\havra\source\repos\2D_Game\Debug\2D_Game.exe
